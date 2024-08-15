@@ -1,0 +1,12 @@
+  {"@@locale": "en",
+    "searchText": "Search",
+    "writeText": "Write",
+    "addTaskText": "Add Task",
+    "cancelButtonText": "Cancel",
+    "saveButtonText": "Save",
+    "deleteButton": "Delete",
+    "deleteWaring": "Are you sure?",
+    "editTextWaring": "Edit Task",
+    "date": "Date",
+    "noTask": "No tasks found"
+  }

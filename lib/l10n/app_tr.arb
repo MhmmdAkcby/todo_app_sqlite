@@ -1,0 +1,12 @@
+{"@@locale": "tr",
+    "searchText": "Ara...",
+    "writeText": "Birşeyler yazın...",
+    "addTaskText": "Yeni Görev Ekle",
+    "cancelButtonText": "Geri",
+    "saveButtonText": "Kaydet",
+    "deleteButton": "Sil",
+    "deleteWaring": "Silinsin mi?",
+    "editTextWaring": "Düzenle",
+    "date": "Tarih",
+    "noTask": "Görev bulunamadı."
+  }
